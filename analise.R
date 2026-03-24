@@ -5,3 +5,5 @@ print(media)
 #novo commit
 resultado <- sum(10,20)
 print(resultado)
+
+resultado / 3
