@@ -1,0 +1,4 @@
+"0","library(ggplot2)"
+"0","dados <- readRDS(""C:/Users/Admin/Desktop/R/pib_cid.RDS"")"
+"0","dados10 <- head(dados, 10)"
+"0","ggplot(dados10, aes(x = pib_total, y = pib_per_capita)) + geom_col()"

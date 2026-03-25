@@ -1,0 +1,3 @@
+"0","library(knitr)"
+"0","dados <- readRDS(""C:/Users/Admin/Desktop/R/pib_cid.RDS"")"
+"0","kable(head(dados, 10))"

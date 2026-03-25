@@ -1,0 +1,21 @@
+---
+title: "Rmd PDF"
+output: pdf_document
+date: "2026-03-25"
+---
+
+**Média Aritmética**
+
+Fórmula em LaTeX:
+$$
+\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
+$$
+
+**Média PIB municípios**
+
+```{r}
+dados <- readRDS("C:/Users/Admin/Desktop/R/pib_cid.RDS")
+media <- mean(dados$pib_per_capita)
+print(media)
+```
+

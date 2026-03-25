@@ -1,0 +1,5 @@
+"0","vetor <- c(10,20,30)"
+"0","media <- mean(vetor)"
+"0","print(media)"
+"1","[1] 20
+"

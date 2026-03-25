@@ -1,0 +1,16 @@
+"0","```{r}
+"
+"2","G1;Erro: tentativa de usar um nome de variável com comprimento zero
+Erros durante o embrulho: não há tantas estruturas na pilha
+H1;Errorh: no more error handlers available (recursive errors?); invoking 'abort' restart
+g"
+"0","dados <- readRDS(""C:/Users/Admin/Desktop/R/pib_cid.RDS"")"
+"0","media <- mean(dados$pib_per_capita)"
+"0","print(media)"
+"1","[1] 17388.86
+"
+"0","```"
+"2","G1;Erro: tentativa de usar um nome de variável com comprimento zero
+Erros durante o embrulho: não há tantas estruturas na pilha
+H1;Errorh: no more error handlers available (recursive errors?); invoking 'abort' restart
+g"
